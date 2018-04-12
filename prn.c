@@ -10,6 +10,7 @@ int main()
     printf("The number %d is negative",no);
   if(no==0.0)
     printf("Zero");
+  return 0;
 }
            
           
