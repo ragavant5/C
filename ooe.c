@@ -1,7 +1,7 @@
 #include<stdio.h>
-int main()
+void main()
 {
-  int n;
+  float n;
   scanf("%d",&n);
   if(1<n<100000)
   {
@@ -10,7 +10,6 @@ int main()
    else
     printf("Odd");
   }
-  return 0;
 }
  
   
